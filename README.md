@@ -81,7 +81,7 @@ EC2 启动类型适用于以下工作负载：
 * Operating system family：选择Linux
 * Number of tasks：输入您需要并发运行的容器数量
 * 选择下一步
-* 选择集群VPC，子网和安全组
+* 选择集群VPC，子网和安全组。请注意，此处的子网的IP数量，要大于我们所要新建的ip数量
 * Auto-assign public IP：选择enable
 
 
